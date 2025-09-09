@@ -1,0 +1,9 @@
+.grid{
+    width: 100%;
+    position: relative;
+    justify-items: center;
+}
+
+.element{
+    background-color: rgb(2, 226, 226);    
+}
